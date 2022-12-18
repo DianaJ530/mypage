@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="스노우폭스 송도점" />
-        <meta property="og:description" content="세상에서 제일 신선한 롤&스시 도시락 맛집 :)" />
+        <meta property="og:description" content="예쁘고 맛있는 롤&스시&샐러드 맛집 :)" />
         <meta property="og:image" content="공유할 이미지" />
         <title>스노우폭스 송도점</title>
         <style>
@@ -83,7 +83,7 @@
         <div class="wrap">
             <div class="profile"></div>
             <h1 class="main">스노우폭스 송도점</h1>
-            <p class="sub">세상에서 제일 신선한 롤&스시 도시락 맛집 :)</p>
+            <p class="sub">예쁘고 맛있는 롤&스시&샐러드 맛집 :)</p>
             <a target="_blank" href="https://blog.naver.com/snowfox-songdo/222958353140">스노우폭스 송도점 일기</a>
             <a target="_blank" href="https://www.instagram.com/snowfox._.songdo/">인스타그램</a>
             <a target="_blank" href="pf.kakao.com/_GNCxnxj">단체주문 문의</a>  
